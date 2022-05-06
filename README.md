@@ -13,7 +13,7 @@ Lifestyle
 
 
 ### Project Title :
-E-Commerce site 
+fashion site 
 
 
 ### Problem Statement/Opportunity :
